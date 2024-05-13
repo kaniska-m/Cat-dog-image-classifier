@@ -1,8 +1,4 @@
-# classifier
 
-A new Flutter project.
-
-## Getting Started
 # Flutter Integration of TFLite model for Image Classification
 
 A new Flutter project.
