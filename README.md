@@ -3,8 +3,27 @@
 A new Flutter project.
 
 ## Getting Started
+# Flutter Integration of TFLite model for Image Classification
+
+A new Flutter project.
+
+## DEMO FILE
+
+https://github.com/kaniska-m/Flutter/assets/153006677/1e03032f-6fe7-42f1-8f4d-049cbdff5d12
 
 This project is a starting point for a Flutter application.
+
+# Key Features:
+This repository showcases a Flutter application that leverages TensorFlow Lite (TFLite) for image classification of cats and dogs.
+
+## Flutter Framework: 
+Builds a user-friendly and interactive mobile app interface.
+## TensorFlow Lite (TFLite): 
+Enables on-device image classification using a pre-trained machine learning model, ensuring faster processing and potentially improved privacy.
+## Virtual Emulator Support: 
+Facilitates convenient testing and development on your computer without requiring a physical device.
+## Cat vs. Dog Classification:
+Classifies images captured by the device's camera, displaying the results within the app.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +33,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+This project is a starting point for a Flutter application.
+
